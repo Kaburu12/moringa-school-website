@@ -1,56 +1,74 @@
-                body {
-                    margin: 0;
-                    font-family: Nunito;
-                }
-                
-                .nav {
-                    background-color: white;
-                    font-weight: bolder;
-                    font-size: 20px;
-                }
-                
-                .nav a {
-                    float: left;
-                    color: black;
-                    padding: 14px 16px;
-                    text-decoration: none;
-                    font-size: 20px;
-                    text-align: left;
-                }
-                
-                .nav a:hover {
-                    background-color: #ddd;
-                    color: rgb(236, 64, 103);
-                }
-                
-                #line1 {
-                    color: rgb(236, 64, 103);
-                    font-size: 10px;
-                }
-                
-                #home1 {
-                    font-size: 30px;
-                    padding-left: 10px;
-                    padding-right: 300px;
-                }
-                
-                #text {
-                    padding: 20px 50px;
-                }
-                
-                .tab {
-                    float: left;
-                    border: #EC4067;
-                    cursor: pointer;
-                    transition: 0.3s;
-                    font-size: 17px;
-                    padding: 15px;
-                }
-                
-                #tab1 {
-                    padding-top: 6px;
-                    padding-bottom: 6px;
-                    padding-left: 20px;
-                    padding-right: 20px;
-                    background-color: #EC4067;
-                }
+.body {
+    margin: 0;
+    font-family: Nunito;
+}
+
+.topnav {
+    background-color: white;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.topnav a {
+    float: left;
+    color: black;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    text-align: left;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: rgb(236, 64, 103);
+}
+
+#line1 {
+    color: rgb(236, 64, 103);
+    font-size: 10px;
+}
+
+#home1 {
+    font-size: 30px;
+    padding-left: 10px;
+    padding-right: 300px;
+}
+
+#text {
+    padding: 20px 50px;
+}
+
+.tab {
+    float: right;
+    border: #ec4067;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 17px;
+    padding: 15px;
+    margin-top: 15px;
+}
+
+#tab1 {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #ec4067;
+    margin-right: 30px;
+    text-decoration-color: white;
+}
+
+.topnav {
+    background-color: white;
+    overflow: hidden;
+}
+
+.head {
+    padding-left: 10px;
+    font-size: 8px;
+    margin-left: 20px;
+}
+
+.para1 {
+    padding-left: 50px;
+}
