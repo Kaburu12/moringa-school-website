@@ -109,11 +109,12 @@
 }
 
 #butn3 {
-    padding-top: 6px;
-    padding-bottom: 6px;
+    padding-top: 4px;
+    padding-bottom: 4px;
     padding-left: 20px;
     padding-right: 20px;
     background-color: white;
     margin-right: 30px;
     margin-left: 50px;
+    border-color: #ec4067;
 }
