@@ -77,3 +77,24 @@
 #h3 {
     color: #ec4067;
 }
+
+.tab2 {
+    float: left;
+    border: #ec4067;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 17px;
+    padding: 15px;
+    margin-top: 15px;
+}
+
+#tab2 {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #ec4067;
+    margin-right: 30px;
+    text-decoration-color: white;
+    margin-left: 50px;
+}
