@@ -24,3 +24,7 @@ body {
 .active {
     color: black;
 }
+
+#line1 {
+    color: rgb(236, 64, 103);
+}
