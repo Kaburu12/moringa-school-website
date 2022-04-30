@@ -308,3 +308,56 @@
                                         padding-left: 50px;
                                         font-size: large;
                                     }
+                                    
+                                    .tab6 {
+                                        float: left;
+                                        cursor: pointer;
+                                        transition: 0.3s;
+                                        font-size: 17px;
+                                        margin-top: 20px;
+                                        margin-left: 50px;
+                                        border-radius: 6px;
+                                        margin-right: 75px;
+                                        padding-left: 20px;
+                                        padding-right: 20px;
+                                        padding-top: 10px;
+                                        padding-bottom: 10px;
+                                    }
+                                    
+                                    #tab6 {
+                                        background-color: #ec4067;
+                                        border-color: #ec4067;
+                                    }
+                                    
+                                    #still {
+                                        margin-left: 0px;
+                                        float: left;
+                                        padding-top: 30px;
+                                        padding-right: 600px;
+                                        padding-left: 50px;
+                                        font-size: x-large;
+                                        color: #ec4067;
+                                    }
+                                    
+                                    #go {
+                                        padding-top: 180px;
+                                        padding-right: 500px;
+                                        padding-left: 50px;
+                                        font-size: large;
+                                    }
+                                    
+                                    .tab8 {
+                                        cursor: pointer;
+                                        transition: 0.3s;
+                                        font-size: 17px;
+                                        margin-top: 20px;
+                                        margin-left: 70px;
+                                        border-radius: 6px;
+                                        padding: 5px 10px 5px 10px;
+                                    }
+                                    
+                                    #tab8 {
+                                        background-color: #ec4067;
+                                        border-color: #ec4067;
+                                        margin-left: 10px;
+                                    }
