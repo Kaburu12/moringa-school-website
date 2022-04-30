@@ -141,8 +141,8 @@
                                     }
                                     
                                     .pic1 {
-                                        height: 150px;
-                                        width: 150px;
+                                        height: 180px;
+                                        width: 400px;
                                         float: right;
                                     }
                                     
@@ -163,7 +163,7 @@
                                     
                                     .right {
                                         float: right;
-                                        padding-right: 220px;
+                                        margin-right: 270px;
                                     }
                                     
                                     .right2 {
