@@ -365,3 +365,10 @@
                                     span {
                                         color: #ec4067;
                                     }
+                                    
+                                    footer {
+                                        text-align: center;
+                                        padding: 5px;
+                                        background-color: #ddd;
+                                        color: black;
+                                    }
