@@ -113,6 +113,20 @@
                                     background-color: #ec4067;
                                 }
                                 
+                                .tab4 {
+                                    float: left;
+                                    cursor: pointer;
+                                    transition: 0.3s;
+                                    font-size: 17px;
+                                    padding: 5px;
+                                    margin-top: 10px;
+                                    margin-left: 50px;
+                                }
+                                
+                                #tab4 {
+                                    background-color: #ec4067;
+                                }
+                                
                                 #butn3 {
                                     padding-top: 4px;
                                     padding-bottom: 4px;
@@ -132,8 +146,8 @@
                                 
                                 #im {
                                     padding-left: 50px;
-                                    height: 250px;
-                                    width: 400px;
+                                    height: 270px;
+                                    width: 500px;
                                 }
                                 
                                 .head2 {
@@ -156,6 +170,63 @@
                                     padding-left: 40px;
                                 }
                                 
-                                h3 {
+                                #head3 {
                                     padding-left: 50px;
+                                    padding-top: 20px;
+                                }
+                                
+                                .p2 {
+                                    padding-left: 50px;
+                                }
+                                
+                                .im2 {
+                                    float: right;
+                                    height: 270px;
+                                    width: 500px;
+                                    padding-right: 50px;
+                                    margin-bottom: 100px;
+                                }
+                                
+                                .im3 {
+                                    float: left;
+                                    padding-right: 100px;
+                                    height: 270px;
+                                    width: 500px;
+                                    padding-top: 290px;
+                                    padding-left: 50px;
+                                }
+                                
+                                .p3 {
+                                    padding-top: 150px;
+                                    padding-left: 50px;
+                                }
+                                
+                                .pic4 {
+                                    width: 23%;
+                                    padding-right: 8px;
+                                }
+                                
+                                #pic4 {
+                                    padding-left: 50px;
+                                }
+                                
+                                ul {
+                                    list-style-type: none;
+                                    margin: 0;
+                                    padding: 0;
+                                    overflow: hidden;
+                                }
+                                
+                                li {
+                                    float: left;
+                                }
+                                
+                                li a {
+                                    display: block;
+                                    color: #ec4067;
+                                    text-align: center;
+                                    padding-right: 125px;
+                                    text-decoration: none;
+                                    padding-left: 60px;
+                                    font-weight: 600;
                                 }
