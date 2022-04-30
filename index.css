@@ -76,6 +76,7 @@
                                 
                                 #h3 {
                                     color: #ec4067;
+                                    padding-left: 0px;
                                 }
                                 
                                 .tab2 {
@@ -106,6 +107,10 @@
                                     font-size: 17px;
                                     padding: 10px;
                                     margin-top: 15px;
+                                }
+                                
+                                #tab3 {
+                                    background-color: #ec4067;
                                 }
                                 
                                 #butn3 {
@@ -149,4 +154,8 @@
                                     float: right;
                                     padding-top: 30px;
                                     padding-left: 40px;
+                                }
+                                
+                                h3 {
+                                    padding-left: 50px;
                                 }
