@@ -15,4 +15,11 @@ This website outlines what Moringa school offers as one of the best schools in t
 5)Initializing of Git ,git add files,git commit and git push
 6)Publisihing of the project
 
+## Technology used
+HTML tags and elements
+CSS styling
+
+## Support and Contact Details
+Email address: kabururm@gmail.com
+
 ## 
