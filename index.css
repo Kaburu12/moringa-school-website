@@ -1,285 +1,310 @@
-                                            .body {
-                                                margin: 30px;
-                                                font-family: Nunito;
-                                            }
-                                            
-                                            .topnav {
-                                                background-color: white;
-                                                font-weight: bolder;
-                                                font-size: 20px;
-                                            }
-                                            
-                                            .topnav a {
-                                                float: left;
-                                                color: black;
-                                                padding: 14px 16px;
-                                                text-decoration: none;
-                                                font-size: 20px;
-                                                text-align: left;
-                                            }
-                                            
-                                            .topnav a:hover {
-                                                background-color: #ddd;
-                                                color: rgb(236, 64, 103);
-                                            }
-                                            
-                                            #line1 {
-                                                color: rgb(236, 64, 103);
-                                                font-size: 10px;
-                                            }
-                                            
-                                            #home1 {
-                                                font-size: 30px;
-                                                padding-left: 10px;
-                                                padding-right: 300px;
-                                            }
-                                            
-                                            #text {
-                                                padding: 20px 50px;
-                                            }
-                                            
-                                            .tab {
-                                                float: right;
-                                                border: #ec4067;
-                                                cursor: pointer;
-                                                transition: 0.3s;
-                                                font-size: 17px;
-                                                padding: 15px;
-                                                margin-top: 15px;
-                                            }
-                                            
-                                            #tab1 {
-                                                padding-top: 6px;
-                                                padding-bottom: 6px;
-                                                padding-left: 20px;
-                                                padding-right: 20px;
-                                                background-color: #ec4067;
-                                                margin-right: 30px;
-                                                text-decoration-color: white;
-                                            }
-                                            
-                                            .topnav {
-                                                background-color: white;
-                                                overflow: hidden;
-                                                margin-bottom: 50px;
-                                            }
-                                            
-                                            .head {
-                                                padding-left: 10px;
-                                                font-size: 8px;
-                                                margin-left: 40px;
-                                            }
-                                            
-                                            .para1 {
-                                                padding-left: 50px;
-                                            }
-                                            
-                                            #h3 {
-                                                color: #ec4067;
-                                                padding-left: 0px;
-                                            }
-                                            
-                                            .tab2 {
-                                                float: left;
-                                                border: #ec4067;
-                                                cursor: pointer;
-                                                transition: 0.3s;
-                                                font-size: 17px;
-                                                padding: 15px;
-                                                margin-top: 15px;
-                                            }
-                                            
-                                            #tab2 {
-                                                padding-top: 6px;
-                                                padding-bottom: 6px;
-                                                padding-left: 20px;
-                                                padding-right: 20px;
-                                                background-color: #ec4067;
-                                                margin-right: 30px;
-                                                text-decoration-color: white;
-                                                margin-left: 50px;
-                                            }
-                                            
-                                            .tab3 {
-                                                float: left;
-                                                cursor: pointer;
-                                                transition: 0.3s;
-                                                font-size: 17px;
-                                                padding: 10px;
-                                                margin-top: 15px;
-                                            }
-                                            
-                                            #tab3 {
-                                                background-color: #ec4067;
-                                                border-color: #ec4067;
-                                            }
-                                            
-                                            .tab4 {
-                                                float: left;
-                                                cursor: pointer;
-                                                transition: 0.3s;
-                                                font-size: 17px;
-                                                padding: 5px;
-                                                margin-top: 10px;
-                                                margin-left: 50px;
-                                            }
-                                            
-                                            #tab4 {
-                                                background-color: #ec4067;
-                                                border-color: #ec4067;
-                                            }
-                                            
-                                            #butn3 {
-                                                padding-top: 4px;
-                                                padding-bottom: 4px;
-                                                padding-left: 20px;
-                                                padding-right: 20px;
-                                                background-color: white;
-                                                margin-right: 30px;
-                                                margin-left: 50px;
-                                                border-color: #ec4067;
-                                            }
-                                            
-                                            .pic1 {
-                                                height: 150px;
-                                                width: 150px;
-                                                float: right;
-                                            }
-                                            
-                                            #im {
-                                                padding-left: 50px;
-                                                height: 270px;
-                                                width: 500px;
-                                            }
-                                            
-                                            .head2 {
-                                                padding-left: 50px;
-                                                padding-top: 30px;
-                                            }
-                                            
-                                            ul#menu li {
-                                                display: inline;
-                                            }
-                                            
-                                            .right {
-                                                float: right;
-                                                padding-right: 220px;
-                                            }
-                                            
-                                            .right2 {
-                                                float: right;
-                                                padding-top: 30px;
-                                                padding-left: 40px;
-                                            }
-                                            
-                                            #head3 {
-                                                padding-left: 50px;
-                                                padding-top: 20px;
-                                            }
-                                            
-                                            .p2 {
-                                                padding-left: 50px;
-                                            }
-                                            
-                                            .im2 {
-                                                float: right;
-                                                height: 270px;
-                                                width: 500px;
-                                                padding-right: 50px;
-                                                margin-bottom: 100px;
-                                            }
-                                            
-                                            .im3 {
-                                                float: left;
-                                                padding-right: 100px;
-                                                height: 270px;
-                                                width: 500px;
-                                                padding-top: 290px;
-                                                padding-left: 50px;
-                                            }
-                                            
-                                            .p3 {
-                                                padding-top: 150px;
-                                                padding-left: 50px;
-                                            }
-                                            
-                                            .pic4 {
-                                                width: 23%;
-                                                padding-right: 8px;
-                                            }
-                                            
-                                            #pic4 {
-                                                padding-left: 34px;
-                                            }
-                                            
-                                            ul {
-                                                list-style-type: none;
-                                                margin: 0;
-                                                padding: 0;
-                                                overflow: hidden;
-                                            }
-                                            
-                                            li {
-                                                float: left;
-                                            }
-                                            
-                                            li a {
-                                                display: block;
-                                                color: #ec4067;
-                                                text-align: center;
-                                                padding-right: 124px;
-                                                text-decoration: none;
-                                                padding-left: 60px;
-                                                font-weight: 600;
-                                            }
-                                            
-                                            ol li {
-                                                list-style-type: none;
-                                                margin: 0;
-                                                padding: 0;
-                                                overflow: hidden;
-                                                float: left;
-                                                padding-right: 9px;
-                                            }
-                                            
-                                            ol li a {
-                                                display: block;
-                                                color: black;
-                                                text-align: left;
-                                                padding-right: 20px;
-                                                text-decoration: none;
-                                                padding-left: 40px;
-                                                font-weight: 300;
-                                            }
-                                            
-                                            .container {
-                                                position: relative;
-                                                text-align: center;
-                                                color: black;
-                                            }
-                                            
-                                            .tab5 {
-                                                float: left;
-                                                cursor: pointer;
-                                                transition: 0.3s;
-                                                font-size: 17px;
-                                                margin-top: 20px;
-                                                margin-left: 80px;
-                                                border-radius: 6px;
-                                                padding: 7px;
-                                                margin-right: 75px;
-                                            }
-                                            
-                                            #tab5 {
-                                                background-color: #ec4067;
-                                                border-color: #ec4067;
-                                            }
-                                            
-                                            #proj {
-                                                padding-left: 50px;
-                                                margin-top: 250px;
-                                            }
-                                            
-                                            #hop {
-                                                padding-left: 50px;
-                                            }
+                                    .body {
+                                        margin: 30px;
+                                        font-family: Nunito;
+                                    }
+                                    
+                                    .topnav {
+                                        background-color: white;
+                                        font-weight: bolder;
+                                        font-size: 20px;
+                                    }
+                                    
+                                    .topnav a {
+                                        float: left;
+                                        color: black;
+                                        padding: 14px 16px;
+                                        text-decoration: none;
+                                        font-size: 20px;
+                                        text-align: left;
+                                    }
+                                    
+                                    .topnav a:hover {
+                                        background-color: #ddd;
+                                        color: rgb(236, 64, 103);
+                                    }
+                                    
+                                    #line1 {
+                                        color: rgb(236, 64, 103);
+                                        font-size: 10px;
+                                    }
+                                    
+                                    #home1 {
+                                        font-size: 30px;
+                                        padding-left: 10px;
+                                        padding-right: 300px;
+                                    }
+                                    
+                                    #text {
+                                        padding: 20px 50px;
+                                    }
+                                    
+                                    .tab {
+                                        float: right;
+                                        border: #ec4067;
+                                        cursor: pointer;
+                                        transition: 0.3s;
+                                        font-size: 17px;
+                                        padding: 15px;
+                                        margin-top: 15px;
+                                    }
+                                    
+                                    #tab1 {
+                                        padding-top: 6px;
+                                        padding-bottom: 6px;
+                                        padding-left: 20px;
+                                        padding-right: 20px;
+                                        background-color: #ec4067;
+                                        margin-right: 30px;
+                                        text-decoration-color: white;
+                                    }
+                                    
+                                    .topnav {
+                                        background-color: white;
+                                        overflow: hidden;
+                                        margin-bottom: 50px;
+                                    }
+                                    
+                                    .head {
+                                        padding-left: 10px;
+                                        font-size: 8px;
+                                        margin-left: 40px;
+                                    }
+                                    
+                                    .para1 {
+                                        padding-left: 50px;
+                                    }
+                                    
+                                    #h3 {
+                                        color: #ec4067;
+                                        padding-left: 0px;
+                                    }
+                                    
+                                    .tab2 {
+                                        float: left;
+                                        border: #ec4067;
+                                        cursor: pointer;
+                                        transition: 0.3s;
+                                        font-size: 17px;
+                                        padding: 15px;
+                                        margin-top: 15px;
+                                    }
+                                    
+                                    #tab2 {
+                                        padding-top: 6px;
+                                        padding-bottom: 6px;
+                                        padding-left: 20px;
+                                        padding-right: 20px;
+                                        background-color: #ec4067;
+                                        margin-right: 30px;
+                                        text-decoration-color: white;
+                                        margin-left: 50px;
+                                    }
+                                    
+                                    .tab3 {
+                                        float: left;
+                                        cursor: pointer;
+                                        transition: 0.3s;
+                                        font-size: 17px;
+                                        padding: 10px;
+                                        margin-top: 15px;
+                                    }
+                                    
+                                    #tab3 {
+                                        background-color: #ec4067;
+                                        border-color: #ec4067;
+                                    }
+                                    
+                                    .tab4 {
+                                        float: left;
+                                        cursor: pointer;
+                                        transition: 0.3s;
+                                        font-size: 17px;
+                                        padding: 5px;
+                                        margin-top: 10px;
+                                        margin-left: 50px;
+                                    }
+                                    
+                                    #tab4 {
+                                        background-color: #ec4067;
+                                        border-color: #ec4067;
+                                    }
+                                    
+                                    #butn3 {
+                                        padding-top: 4px;
+                                        padding-bottom: 4px;
+                                        padding-left: 20px;
+                                        padding-right: 20px;
+                                        background-color: white;
+                                        margin-right: 30px;
+                                        margin-left: 50px;
+                                        border-color: #ec4067;
+                                    }
+                                    
+                                    .pic1 {
+                                        height: 150px;
+                                        width: 150px;
+                                        float: right;
+                                    }
+                                    
+                                    #im {
+                                        padding-left: 50px;
+                                        height: 270px;
+                                        width: 500px;
+                                    }
+                                    
+                                    .head2 {
+                                        padding-left: 50px;
+                                        padding-top: 30px;
+                                    }
+                                    
+                                    ul#menu li {
+                                        display: inline;
+                                    }
+                                    
+                                    .right {
+                                        float: right;
+                                        padding-right: 220px;
+                                    }
+                                    
+                                    .right2 {
+                                        float: right;
+                                        padding-top: 30px;
+                                        padding-left: 40px;
+                                    }
+                                    
+                                    #head3 {
+                                        padding-left: 50px;
+                                        padding-top: 20px;
+                                    }
+                                    
+                                    .p2 {
+                                        padding-left: 50px;
+                                    }
+                                    
+                                    .im2 {
+                                        float: right;
+                                        height: 270px;
+                                        width: 500px;
+                                        padding-right: 50px;
+                                        margin-bottom: 100px;
+                                    }
+                                    
+                                    .im3 {
+                                        float: left;
+                                        padding-right: 100px;
+                                        height: 270px;
+                                        width: 500px;
+                                        padding-top: 290px;
+                                        padding-left: 50px;
+                                    }
+                                    
+                                    .p3 {
+                                        padding-top: 150px;
+                                        padding-left: 50px;
+                                    }
+                                    
+                                    .pic4 {
+                                        width: 23%;
+                                        padding-right: 8px;
+                                    }
+                                    
+                                    #pic4 {
+                                        padding-left: 34px;
+                                    }
+                                    
+                                    ul {
+                                        list-style-type: none;
+                                        margin: 0;
+                                        padding: 0;
+                                        overflow: hidden;
+                                    }
+                                    
+                                    li {
+                                        float: left;
+                                    }
+                                    
+                                    li a {
+                                        display: block;
+                                        color: #ec4067;
+                                        text-align: center;
+                                        padding-right: 124px;
+                                        text-decoration: none;
+                                        padding-left: 60px;
+                                        font-weight: 600;
+                                    }
+                                    
+                                    ol li {
+                                        list-style-type: none;
+                                        margin: 0;
+                                        padding: 0;
+                                        overflow: hidden;
+                                        float: left;
+                                        padding-right: 9px;
+                                    }
+                                    
+                                    ol li a {
+                                        display: block;
+                                        color: black;
+                                        text-align: left;
+                                        padding-right: 20px;
+                                        text-decoration: none;
+                                        padding-left: 40px;
+                                        font-weight: 300;
+                                    }
+                                    
+                                    .container {
+                                        position: relative;
+                                        text-align: center;
+                                        color: black;
+                                    }
+                                    
+                                    .tab5 {
+                                        float: left;
+                                        cursor: pointer;
+                                        transition: 0.3s;
+                                        font-size: 17px;
+                                        margin-top: 20px;
+                                        margin-left: 80px;
+                                        border-radius: 6px;
+                                        padding: 7px;
+                                        margin-right: 75px;
+                                    }
+                                    
+                                    #tab5 {
+                                        background-color: #ec4067;
+                                        border-color: #ec4067;
+                                    }
+                                    
+                                    #proj {
+                                        padding-left: 50px;
+                                        margin-top: 250px;
+                                    }
+                                    
+                                    #hop {
+                                        padding-left: 50px;
+                                        padding-bottom: 30px;
+                                    }
+                                    
+                                    #our {
+                                        padding-left: 50px;
+                                        font-size: x-large;
+                                    }
+                                    
+                                    #cool {
+                                        padding-left: 50px;
+                                        font-size: xx-large;
+                                        color: #ec4067;
+                                    }
+                                    
+                                    .im9 {
+                                        float: right;
+                                        height: 400px;
+                                        width: 700px;
+                                        padding-right: 50px;
+                                        padding-top: 40px;
+                                    }
+                                    
+                                    #bike {
+                                        padding-left: 50px;
+                                        font-size: large;
+                                    }
