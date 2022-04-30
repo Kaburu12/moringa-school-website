@@ -264,13 +264,22 @@
                                                 transition: 0.3s;
                                                 font-size: 17px;
                                                 margin-top: 20px;
-                                                margin-left: 100px;
+                                                margin-left: 80px;
                                                 border-radius: 6px;
                                                 padding: 7px;
-                                                margin-right: 70px;
+                                                margin-right: 75px;
                                             }
                                             
                                             #tab5 {
                                                 background-color: #ec4067;
                                                 border-color: #ec4067;
+                                            }
+                                            
+                                            #proj {
+                                                padding-left: 50px;
+                                                margin-top: 250px;
+                                            }
+                                            
+                                            #hop {
+                                                padding-left: 50px;
                                             }
