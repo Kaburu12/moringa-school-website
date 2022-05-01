@@ -4,9 +4,8 @@ A website about Moringa school landing page ,visit to know more about Moringa sc
 ## Description
 This website outlines what Moringa school offers as one of the best schools in the tech world . <br> From career building ,skills ,and personality.This site helps the interested individuals in learning programming get more information about Moringa ,<br> how to enrol and become part of the best place in programming knowledge .
 
-## Features
+## Behaviour-Driven-Development
 
-## Behaviour-Driven-
 
 ## Project-Setup-Instructions
 1)Installation of the Visual studio code
@@ -19,8 +18,11 @@ This website outlines what Moringa school offers as one of the best schools in t
 ## Live-Link
 
 ## Technology-Used
-HTML tags and elements
-CSS styling
+HTML tags and elements -which was used to develope the structure off the pages.
+CSS styling-which was used to style the User Interface.
+
+## Known-Bugs
+The project works correctly.
 
 ## License
 
@@ -29,6 +31,6 @@ By Kaburu Michael
 
 ## Support-And-Contact-Details
 Email address: kabururm@gmail.com
-Slack:
+Slack:Michael Kaburu
 
 
