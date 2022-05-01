@@ -98,6 +98,7 @@
     margin-right: 30px;
     text-decoration-color: white;
     margin-left: 50px;
+    border-radius: 5px;
 }
 
 .tab3 {
@@ -113,6 +114,7 @@
 #tab3 {
     background-color: #ec4067;
     border-color: #ec4067;
+    border-radius: 5px;
 }
 
 .tab4 {
@@ -122,12 +124,13 @@
     font-size: 17px;
     padding: 5px;
     margin-top: 10px;
-    margin-left: 50px;
+    margin-left: 300px;
 }
 
 #tab4 {
     background-color: #ec4067;
     border-color: #ec4067;
+    border-radius: 5px;
 }
 
 #butn3 {
@@ -187,7 +190,7 @@ ul#menu li {
     float: right;
     height: 270px;
     width: 500px;
-    padding-right: 50px;
+    padding-right: 90px;
     margin-bottom: 100px;
 }
 
@@ -377,4 +380,13 @@ footer {
 
 .orient {
     padding-left: 20px;
+}
+
+#orient {
+    padding-bottom: 30px;
+}
+
+.board {
+    margin-top: 100px;
+    margin-left: 250px;
 }
