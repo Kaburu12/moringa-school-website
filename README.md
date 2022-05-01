@@ -13,6 +13,7 @@ This website outlines what Moringa school offers as one of the best schools in t
 6)Publisihing of the project
 
 ## Live-Link
+https://kaburu12.github.io/moringa-school-website/
 
 ## Technology-Used
 HTML tags and elements -which was used to develope the structure off the pages.
