@@ -165,7 +165,7 @@ ul#menu li {
 .right {
     float: right;
     margin-right: 140px;
-    margin-bottom: 0px;
+    padding-bottom: 0px;
 }
 
 .right2 {
