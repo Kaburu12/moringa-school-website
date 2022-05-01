@@ -368,6 +368,10 @@ ol li a {
 }
 
 span {
+    color: white;
+}
+
+#span {
     color: #ec4067;
 }
 
@@ -389,4 +393,10 @@ footer {
 .board {
     margin-top: 100px;
     margin-left: 250px;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
 }
