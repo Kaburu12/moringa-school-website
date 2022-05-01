@@ -14,6 +14,8 @@ This website outlines what Moringa school offers as one of the best schools in t
 
 ## Live-Link
 
+https://kaburu12.github.io/moringa-school-website/
+
 ## Technology-Used
 HTML tags and elements -which was used to develope the structure off the pages.
 CSS styling-which was used to style the User Interface.
